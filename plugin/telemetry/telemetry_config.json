@@ -1,0 +1,5 @@
+{
+    "bridge_url": "http://127.0.0.1:5000/telemetry",
+    "send_interval": 100,
+    "debug_mode": false
+}

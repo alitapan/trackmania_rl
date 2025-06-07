@@ -1,0 +1,76 @@
+{
+    "reactor_inputs_x": false, 
+    "rpm": 7975.44, 
+    "wheel_states": {
+        "front_left": {
+            "rotation": 923.812,  
+            "slip_coef": 0,
+            "wetness": 0, 
+            "falling_state": "GlidingGround", 
+            "ground_material": "Asphalt", 
+            "icing": 0, 
+            "brake_coef": 0, 
+            "dirt": 0, 
+            "tire_wear": 0, 
+            "steer_angle": 0
+        }, 
+        "rear_right": {
+            "rotation": 923.863, 
+            "slip_coef": 0, 
+            "wetness": 0, 
+            "falling_state": "GlidingGround", 
+            "ground_material": "Asphalt", 
+            "icing": 0, 
+            "brake_coef": 0, 
+            "dirt": 0, 
+            "tire_wear": 0, 
+            "steer_angle": 0
+        }, 
+        "front_right": {
+            "rotation": 923.812, 
+            "slip_coef": 0, 
+            "wetness": 0, 
+            "falling_state": "GlidingGround", 
+            "ground_material": "Asphalt", 
+            "icing": 0, 
+            "brake_coef": 0, 
+            "dirt": 0, 
+            "tire_wear": 0, 
+            "steer_angle": 0
+        }, 
+        "rear_left": {
+            "rotation": 923.812, 
+            "slip_coef": 0, 
+            "wetness": 0, 
+            "falling_state": "GlidingGround", 
+            "ground_material": "Asphalt", 
+            "icing": 0, 
+            "brake_coef": 0, 
+            "dirt": 0, 
+            "tire_wear": 0, 
+            "steer_angle": 0
+        }
+    }, 
+    "turbo_time": 0, 
+    "in_main_menu": true, 
+    "reactor_ground_mode": true, 
+    "on_ground": true, 
+    "finished": false, 
+    "reactor_boost_type": "None", 
+    "reactor_boost_lvl": "None", 
+    "orientation": [0.93649, -2.01134e-05, -0.350694], 
+    "side_speed": 0.0312, 
+    "velocity": [46.5604, -0.001, -17.4358], 
+    "position": [754.033, 88.015, 953.33], 
+    "gear": 3, 
+    "reactor_air_control": [0, 0, 0], 
+    "is_turbo": false, 
+    "speed": 49.7168, 
+    "engine_on": true, 
+    "checkpoints": {
+        "passed": 0, 
+        "progress": 0, 
+        "total": 2
+    }, 
+    "vehicle_type": "CarSport"
+}

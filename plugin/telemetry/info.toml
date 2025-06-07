@@ -1,0 +1,7 @@
+[meta]
+name = "Trackmania RL Telemetry"
+author = "Ali"
+version = "1.0"
+
+[script]
+dependencies = [ "VehicleState" ]
